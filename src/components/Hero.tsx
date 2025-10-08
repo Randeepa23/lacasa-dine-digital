@@ -27,8 +27,8 @@ const Hero = () => {
           <h1 className="font-serif text-5xl md:text-7xl font-bold text-background mb-6 leading-tight">
             Welcome to <span className="text-accent">La Casa</span>
           </h1>
-          <p className="text-xl md:text-2xl text-background/90 mb-8 font-light">
-            Experience authentic Mediterranean cuisine crafted with passion, tradition, and the finest ingredients
+          <p className="text-xl md:text-2xl mb-8 text-background/90 max-w-2xl">
+            Authentic Mediterranean Flavors, Served with Heart
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
             <Button

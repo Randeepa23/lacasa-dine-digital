@@ -6,38 +6,38 @@ const Menu = () => {
     {
       category: "Appetizers",
       items: [
-        { name: "Bruschetta Trio", price: "$12", description: "Traditional tomato, olive tapenade, and roasted pepper" },
-        { name: "Calamari Fritti", price: "$14", description: "Crispy squid with lemon aioli" },
-        { name: "Caprese Salad", price: "$13", description: "Fresh mozzarella, tomatoes, and basil" },
-        { name: "Antipasto Platter", price: "$18", description: "Selection of cured meats, cheeses, and olives" },
+        { name: "Bruschetta Trio", price: "$12", description: "Classic tomato, mushroom, and olive tapenade on toasted bread" },
+        { name: "Calamari Fritti", price: "$14", description: "Crispy fried calamari with lemon aioli" },
+        { name: "Caprese Salad", price: "$13", description: "Fresh mozzarella, heirloom tomatoes, and basil" },
+        { name: "Antipasto Platter", price: "$18", description: "Cured meats, cheeses, olives, and marinated vegetables" },
       ]
     },
     {
       category: "Main Courses",
       items: [
-        { name: "Spaghetti Carbonara", price: "$22", description: "Classic Roman pasta with pancetta and pecorino" },
+        { name: "Spaghetti Carbonara", price: "$22", description: "Classic Roman pasta with pancetta and parmesan" },
         { name: "Osso Buco", price: "$32", description: "Braised veal shanks with saffron risotto" },
-        { name: "Branzino al Forno", price: "$28", description: "Oven-roasted Mediterranean sea bass" },
-        { name: "Bistecca alla Fiorentina", price: "$42", description: "Grilled T-bone steak with rosemary" },
-        { name: "Risotto ai Funghi", price: "$24", description: "Creamy mushroom risotto with truffle oil" },
+        { name: "Branzino al Forno", price: "$28", description: "Whole roasted Mediterranean sea bass with herbs" },
+        { name: "Bistecca alla Fiorentina", price: "$42", description: "Grilled T-bone steak with rosemary potatoes" },
+        { name: "Risotto ai Funghi", price: "$24", description: "Creamy wild mushroom risotto with truffle oil" },
       ]
     },
     {
       category: "Desserts",
       items: [
-        { name: "Tiramisu", price: "$9", description: "Classic Italian coffee-flavored dessert" },
-        { name: "Panna Cotta", price: "$8", description: "Vanilla cream with berry compote" },
-        { name: "Cannoli", price: "$8", description: "Crispy shells filled with sweet ricotta" },
-        { name: "Gelato Selection", price: "$7", description: "Ask about today's flavors" },
+        { name: "Tiramisu", price: "$9", description: "Classic Italian layered dessert with espresso and mascarpone" },
+        { name: "Panna Cotta", price: "$8", description: "Silky vanilla cream with berry compote" },
+        { name: "Cannoli", price: "$8", description: "Crispy pastry shells filled with sweet ricotta" },
+        { name: "Gelato Selection", price: "$7", description: "Three scoops of artisanal Italian gelato" },
       ]
     },
     {
       category: "Beverages",
       items: [
-        { name: "House Wine", price: "$8/glass", description: "Red, white, or rosé" },
+        { name: "House Wine", price: "$8/glass", description: "Red, white, or rosé from our curated selection" },
         { name: "Italian Coffee", price: "$4", description: "Espresso, cappuccino, or macchiato" },
         { name: "San Pellegrino", price: "$5", description: "Sparkling mineral water" },
-        { name: "Fresh Lemonade", price: "$4", description: "Homemade with mint" },
+        { name: "Fresh Lemonade", price: "$4", description: "House-made with Mediterranean lemons" },
       ]
     }
   ];

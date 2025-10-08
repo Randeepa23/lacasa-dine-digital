@@ -9,7 +9,7 @@ const Footer = () => {
           <div>
             <h3 className="font-serif text-2xl font-bold mb-4 text-accent">La Casa</h3>
             <p className="text-background/80">
-              Authentic Mediterranean cuisine crafted with passion since 1985.
+              Authentic Mediterranean Cuisine since 1985
             </p>
           </div>
 

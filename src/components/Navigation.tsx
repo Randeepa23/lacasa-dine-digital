@@ -26,6 +26,7 @@ const Navigation = () => {
     { id: "home", label: "Home" },
     { id: "about", label: "About Us" },
     { id: "menu", label: "Menu" },
+    { id: "gallery", label: "Gallery" },
     { id: "contact", label: "Contact" },
   ];
 
